@@ -1,7 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="52885131-daea-4499-ae60-781763ba349b" name="Default Changelist" comment="" />
+    <list default="true" id="52885131-daea-4499-ae60-781763ba349b" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/-DACON-Bit_Trader.py" beforeDir="false" afterPath="$PROJECT_DIR$/-DACON-Bit_Trader.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/[Dacon]Bit_Trader_LSTM.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/[Dacon]Bit_Trader_LSTM.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/my_model.h5" beforeDir="false" afterPath="$PROJECT_DIR$/my_model.h5" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -145,6 +150,7 @@
       <workItem from="1616635099219" duration="2435000" />
       <workItem from="1616660503500" duration="22628000" />
       <workItem from="1616719721968" duration="5842000" />
+      <workItem from="1616774382321" duration="754000" />
     </task>
     <servers />
   </component>
