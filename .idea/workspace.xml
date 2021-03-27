@@ -2,10 +2,15 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="52885131-daea-4499-ae60-781763ba349b" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/-DACON-Bit_Trader.py" beforeDir="false" afterPath="$PROJECT_DIR$/-DACON-Bit_Trader.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/-DACON-Bit_Trader.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/-DACON-Bit_Trader.py" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/[Dacon]Bit_Trader_LSTM.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/[Dacon]Bit_Trader_LSTM.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/my_model.h5" beforeDir="false" afterPath="$PROJECT_DIR$/my_model.h5" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Deep_LSTM-DESKTOP-EF7794D.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Deep_LSTM.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/[Dacon]Bit_Trader_LSTM.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/baseline_submission.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/my_model.h5" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/submission.csv" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -151,6 +156,11 @@
       <workItem from="1616660503500" duration="22628000" />
       <workItem from="1616719721968" duration="5842000" />
       <workItem from="1616774382321" duration="754000" />
+      <workItem from="1616820374465" duration="11909000" />
+      <workItem from="1616843118629" duration="171000" />
+      <workItem from="1616853683161" duration="515000" />
+      <workItem from="1616854417209" duration="7000" />
+      <workItem from="1616855916329" duration="234000" />
     </task>
     <servers />
   </component>
