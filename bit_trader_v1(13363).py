@@ -20,13 +20,11 @@ from tqdm import tqdm
 import warnings
 warnings.filterwarnings("ignore")
 
-
 # Read Data
 data_path = '../Big_Data/[DACON]Bit_Trader'
 train_x_df = pd.read_csv(data_path  + "/train_x_df.csv")
 train_y_df = pd.read_csv(data_path  + "/train_y_df.csv")
 test_x_df = pd.read_csv(data_path  + "/test_x_df.csv")
-
 
 # 시간 관계 상, train 데이터 상단의 300개 샘플를 구성하여 학습 및 추론
 train_x_df = train_x_df[train_x_df.sample_id < 300]
